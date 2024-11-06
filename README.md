@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zu gehörend mit mein Repository: "rest-api_klimaRallye-main"
 
 Currently, two official plugins are available:
 
